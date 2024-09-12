@@ -1,1 +1,16 @@
-/bin/
+# macOS specific files
+.DS_Store
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+
+# Other OS and editor-specific files
+Thumbs.db
+*.swp
