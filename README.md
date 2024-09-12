@@ -5,7 +5,7 @@
 
 ## Description
 
-Lab exercise to write an example and example test to check with with JUnit tests. The JUnit tests achieve at least 80% branch coverage.
+Lab exercise to write an Example Calcular Function and Example test to check with JUnit tests. The JUnit tests achieve at least 80% branch coverage.
 
 
 ## How to Run Tests
@@ -18,3 +18,5 @@ To run the JUnit tests for the `Example` class:
 ## Reflections
 
 I learned how to use JUnit for testing and code coverage!
+
+![Branch Coverage Image!](/Users/sanjay/lab2-junit-jay-thambi/branch coverage lab2.png)
