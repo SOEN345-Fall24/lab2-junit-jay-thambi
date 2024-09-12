@@ -19,5 +19,6 @@ To run the JUnit tests for the `Example` class:
 
 I learned how to use JUnit for testing and code coverage!
 
-![Branch Coverage Image!](branch coverage.png)
+(![Branch Coverage](branch_coverage.png)
+)
 
